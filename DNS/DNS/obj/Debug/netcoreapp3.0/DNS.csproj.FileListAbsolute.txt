@@ -1,0 +1,11 @@
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\bin\Debug\netcoreapp3.0\DNS.exe
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\bin\Debug\netcoreapp3.0\DNS.deps.json
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\bin\Debug\netcoreapp3.0\DNS.runtimeconfig.json
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\bin\Debug\netcoreapp3.0\DNS.runtimeconfig.dev.json
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\bin\Debug\netcoreapp3.0\DNS.dll
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\bin\Debug\netcoreapp3.0\DNS.pdb
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\obj\Debug\netcoreapp3.0\DNS.csprojAssemblyReference.cache
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\obj\Debug\netcoreapp3.0\DNS.AssemblyInfoInputs.cache
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\obj\Debug\netcoreapp3.0\DNS.AssemblyInfo.cs
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\obj\Debug\netcoreapp3.0\DNS.dll
+C:\Users\Mr.Gawzy\source\repos\DNS\DNS\obj\Debug\netcoreapp3.0\DNS.pdb
