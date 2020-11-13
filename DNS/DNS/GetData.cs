@@ -128,8 +128,18 @@ namespace DNS
             {
                 return "No internet connection";
             }
-            IPAddress ipAddress = Dns.GetHostEntry(ipAddressOrHostName).AddressList[0];
-            StringBuilder traceResults = new StringBuilder();
+            IPAddress ipAddress = null;
+            try
+            {
+                 ipAddress = Dns.GetHostEntry(ipAddressOrHostName).AddressList[0];
+            }
+            catch (Exception e)
+            {
+
+                return $"Something was wrong {e.Message}";
+            }
+                StringBuilder traceResults = new StringBuilder();
+          
 
 
             using (Ping pingSender = new Ping())

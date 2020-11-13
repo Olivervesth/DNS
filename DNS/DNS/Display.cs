@@ -59,16 +59,18 @@ namespace DNS
 
         public void Tracer()//3
         {
+            Console.WriteLine("Type in a address you wanna trace");
+            string input = Console.ReadLine();
             Console.WriteLine("start");
-            string t = data.GetHostnameFromIp("8.8.8.8");
+            string t = data.GetHostnameFromIp(input);
             Console.WriteLine(t);
             Console.WriteLine("slut");
             string adr = data.GetIpFromHostname(t);
             Console.WriteLine("Weee " + adr);
 
 
-
-            string a = data.Traceroute("8.8.8.8");
+            
+            string a = data.Traceroute(input);
             Console.WriteLine("route*** " + a);
 
             DisplayDhcpServerAddresses();
